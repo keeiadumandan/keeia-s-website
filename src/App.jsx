@@ -4,7 +4,7 @@ function App() {
       <h1 className="text-[clamp(3rem,10vw,5.5rem)] font-semibold tracking-[-0.02em] text-[#1a2639] leading-tight m-0 [text-shadow:0_2px_5px_rgba(255,255,255,0.8)] after:content-[''] after:block after:w-20 after:h-[5px] after:bg-[#3b6ea5] after:mx-auto after:mt-6 after:rounded after:opacity-80">
         Welcome to Keeia's Website!
       </h1>
-      <p className="mt-6 text-xl text-[#3b6ea5]">Thanks for visiting!</p>
+      <p className="mt-6 text-xl text-[#3b6ea5] tracking-wide">Thanks for visiting!</p>
     </div>
   );
 }
